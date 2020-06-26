@@ -1,5 +1,5 @@
 # Treinamentos
-Aulas disponibilizadas aqui no Github!
+Exemplo de aulas disponibilizadas aqui no Github!
 
 ## SQL SERVER
 >Curso focado nos fundamentos e boas práticas desenvolvedores e analistas de banco de dados. 
